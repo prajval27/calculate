@@ -1,3 +1,4 @@
+USN: 1ce24ai402
 # calculate
 
 Spark (Scala) starter generated from **spark-scala-archetype_2.12**.
